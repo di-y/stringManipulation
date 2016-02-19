@@ -1,5 +1,4 @@
 # hw1.py
-# Dina Yerlan + dyerlan + section K
 
 ######################################################################
 # Place your non-autograded solutions below here!

@@ -1,5 +1,5 @@
 # hw3.py
-# Dina Yerlan + dyerlan + section K
+
 
 """
 Place your manually-graded materials here

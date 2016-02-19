@@ -1,5 +1,5 @@
 # hw2.py
-# Dina Yerlan + dyerlan + section-K
+
 
 """
    **1a. def drawCircle(canvas, x0, y0, x1, y1):
